@@ -1,4 +1,4 @@
-buyFoodItemFromCart = (itemSku, amount) => {
+let buyFoodItemFromCart = (itemSku, amount) => {
     foodCart.buyFoodItem(itemSku, {from: buyerAddress, value: amount})
         .then((trxn) => {
             const details = trxn.logs[0].args;
