@@ -1,0 +1,2 @@
+This repository contains the codes used in the article 'Debugging Smart Contracts with Truffle Debugger: A Practical Approach'
+published at https://www.mayowatudonu.com/blockchain/debugging-smartcontracts-with-truffle-debugger
